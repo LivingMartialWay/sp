@@ -8,6 +8,8 @@ function Techlist() {
     return (
     <div className="Techlist">
       <StarfieldAnimation
+        numParticles={2000}
+        depth={1000}
         style={{
           position: 'absolute',
           width: '100%',
