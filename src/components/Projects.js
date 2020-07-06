@@ -99,12 +99,12 @@ function Projects() {
                           <h4 className="card__heading">
 
                               <span className="card__heading-span--1">
-                                  YouTube Redux
+                                  YouTube Refactor
                               </span>
                           </h4>
                           <div className="card__details">
                               <ul>
-                                  <li>React Redux</li>
+                                  <li>React</li>
                                   <li>NodeJS</li>
                                   <li>React Router</li>
                                   <li>CSS / SASS</li>
@@ -118,13 +118,13 @@ function Projects() {
                               <div className="card__box">
                                   <div className="card__description">
                                       <p>
-                                          Redux Refactor to optimize Ad-free YouTube via Brave
+                                          Refactor to optimize Ad-free YouTube via Brave
                                       </p>
                                   </div>
                               </div>
                                 <div className="hover">
                                   <span>Explore</span>
-                                  <a className="social-link" href="https://dans-redux-darktube.netlify.app/" target="_blank" rel="noopener noreferrer">
+                                  <a className="social-link" href="https://dans-redone-darktube.netlify.app/" target="_blank" rel="noopener noreferrer">
                                     <GoBrowser />
                                   </a>
                                   <a className="social-link" href="https://github.com/LivingMartialWay/video_browser" target="_blank" rel="noopener noreferrer">
